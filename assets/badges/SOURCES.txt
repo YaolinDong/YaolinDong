@@ -1,0 +1,28 @@
+Languages and Tools — official logo sources
+
+All displayed logos were downloaded from official project repositories, brand
+resource pages, or official documentation/websites. sources.json records the
+source URL, evidence page, SHA-256 of the original bytes, and the badge using it.
+The original image bytes are embedded unchanged. Logos are scaled proportionally,
+without recoloring, redrawing, or cropping. Some dark logos sit on a white mount
+inside the existing colored badge so that the original artwork remains legible.
+
+CAN FD uses the official CAN in Automation (CiA) association mark from can-cia.org.
+It is an association logo, not a separate CAN FD protocol logo. STM32 uses the
+official STMicroelectronics mark distributed with STM32 documentation. ROS 2
+uses the official ROS project logo. Website and documentation icons are identified
+in sources.json rather than being described as separate product brand kits.
+
+Pinocchio: original logo from gepetto.github.io/doc/pinocchio/doxygen-html/pinocchio.png
+Ruckig: original logo from docs.ruckig.com/logo.png
+C: original logo from www.c-language.org/logo.svg. WG14 links this official
+language homepage, whose FAQ describes the traditional C logo and its provenance.
+https://www.c-language.org/faq
+
+CAD, 3D Printing, and PCB Design have no confirmed official logo selected and
+remain text-only, including the Chinese variants of the last two labels.
+No Simple Icons, Devicon, or self-drawn functional symbols are used by these badges.
+
+Labels, colors, and text metrics retain the existing Shields.io badge design.
+JAX, Flax, and MuJoCo source licenses are included alongside this file.
+All project and vendor marks belong to their respective owners.

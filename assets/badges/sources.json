@@ -1,0 +1,423 @@
+{
+  "policy": "Only assets obtained from official project, vendor or association sources are displayed. Original image bytes are embedded unchanged; scaling and surrounding badge layout do not modify the logo.",
+  "badges": [
+    {
+      "label": "Python",
+      "badge": "./assets/badges/python.svg",
+      "logo": {
+        "url": "https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg",
+        "evidence": "https://www.python.org/community/logos/",
+        "resolved_url": "https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg",
+        "bytes": 9605,
+        "sha256": "baec8662a1461c2cacc326b54d2727cb2f1ce07ba02d00f5b826d035104f649f",
+        "original_filename": "python.svg",
+        "note": "Original logo from the official project website, repository or brand resources."
+      }
+    },
+    {
+      "label": "C",
+      "badge": "./assets/badges/c.svg",
+      "logo": {
+        "url": "https://www.c-language.org/logo.svg",
+        "evidence": "https://www.c-language.org/faq",
+        "committee_reference": "https://www.open-std.org/jtc1/sc22/wg14/",
+        "bytes": 245,
+        "sha256": "a3229d3defc4eab0c1a426cc7714396a674fa3ec58a9f473a8833b941fb87e18",
+        "original_filename": "logo.svg",
+        "note": "Original C logo adopted by the official language homepage approved by WG14. Its FAQ describes the traditional Helvetica Black C mark and credits the source artwork."
+      }
+    },
+    {
+      "label": "C++",
+      "badge": "./assets/badges/cplusplus.svg",
+      "logo": {
+        "url": "https://isocpp.org/assets/images/cpp_logo.png",
+        "evidence": "https://isocpp.org/",
+        "resolved_url": "https://isocpp.org/assets/images/cpp_logo.png",
+        "bytes": 23613,
+        "sha256": "a1af8f6778a1d313c73a65b9c287e50379c9305cd4752fcfe4f9a729da37c58d",
+        "original_filename": "cplusplus.png",
+        "note": "Original logo from the official project website, repository or brand resources."
+      }
+    },
+    {
+      "label": "Rust",
+      "badge": "./assets/badges/rust.svg",
+      "logo": {
+        "url": "https://raw.githubusercontent.com/rust-lang/rust-artwork/HEAD/logo/rust-logo-white-outline.svg",
+        "evidence": "https://github.com/rust-lang/rust-artwork",
+        "resolved_url": "https://raw.githubusercontent.com/rust-lang/rust-artwork/HEAD/logo/rust-logo-white-outline.svg",
+        "bytes": 12021,
+        "sha256": "c7a5fb03c8c4ddedcf2d2aa99ac607ee30cd266df7fa39b3d355d16efabcfcca",
+        "original_filename": "rust.svg",
+        "note": "Original logo from the official project website, repository or brand resources."
+      }
+    },
+    {
+      "label": "C#",
+      "badge": "./assets/badges/csharp.svg",
+      "logo": {
+        "url": "https://raw.githubusercontent.com/dotnet/brand/HEAD/logo/language-icons/csharp-72.svg",
+        "evidence": "https://github.com/dotnet/brand",
+        "resolved_url": "https://raw.githubusercontent.com/dotnet/brand/HEAD/logo/language-icons/csharp-72.svg",
+        "bytes": 2575,
+        "sha256": "9316224a173d1723fe0c4d1cedb6aaca685e067b1a9e9b5b233dbd5fdbb77208",
+        "original_filename": "csharp.svg",
+        "note": "Original logo from the official project website, repository or brand resources."
+      }
+    },
+    {
+      "label": "TypeScript",
+      "badge": "./assets/badges/typescript.svg",
+      "logo": {
+        "url": "https://raw.githubusercontent.com/microsoft/TypeScript-Website/HEAD/packages/typescriptlang-org/static/branding/ts-logo-single-color-white.svg",
+        "evidence": "https://www.typescriptlang.org/branding/",
+        "resolved_url": "https://raw.githubusercontent.com/microsoft/TypeScript-Website/HEAD/packages/typescriptlang-org/static/branding/ts-logo-single-color-white.svg",
+        "bytes": 2242,
+        "sha256": "9286044a135a64d3565b72fa338ae9addb9359bb95172402bdfcc144ffc445fa",
+        "original_filename": "typescript.svg",
+        "note": "Original logo from the official project website, repository or brand resources."
+      }
+    },
+    {
+      "label": "SolidWorks",
+      "badge": "./assets/badges/solidworks.svg",
+      "logo": {
+        "url": "https://help.solidworks.com/favicon.png",
+        "evidence": "https://help.solidworks.com/",
+        "resolved_url": "https://help.solidworks.com/favicon.png",
+        "bytes": 1369,
+        "sha256": "57b742609a1a411f0d44820feb6c0c02110c3233b787d38706d32178319ef41b",
+        "original_filename": "solidworks.png",
+        "note": "Official SOLIDWORKS Help website favicon."
+      }
+    },
+    {
+      "label": "CAD",
+      "badge": "./assets/badges/cad.svg",
+      "logo": null,
+      "note": "No confirmed official logo selected; text-only badge."
+    },
+    {
+      "label": "3D Printing",
+      "badge": "./assets/badges/3d-printing.svg",
+      "logo": null,
+      "note": "No confirmed official logo selected; text-only badge."
+    },
+    {
+      "label": "PCB Design",
+      "badge": "./assets/badges/pcb-design.svg",
+      "logo": null,
+      "note": "No confirmed official logo selected; text-only badge."
+    },
+    {
+      "label": "EasyEDA",
+      "badge": "./assets/badges/easyeda.svg",
+      "logo": {
+        "url": "https://docs.easyeda.com/storage/logo/logo_en_dark.svg",
+        "evidence": "https://docs.easyeda.com/en/",
+        "resolved_url": "https://docs.easyeda.com/storage/logo/logo_en_dark.svg",
+        "bytes": 8444,
+        "sha256": "aeb4fa127a728a717a1f99c880bf087e147408afd19a7aafab729f774139526c",
+        "original_filename": "easyeda.svg",
+        "note": "Original logo from the official project website, repository or brand resources."
+      }
+    },
+    {
+      "label": "STM32",
+      "badge": "./assets/badges/stm32.svg",
+      "logo": {
+        "url": "https://raw.githubusercontent.com/STMicroelectronics/STM32CubeF4/HEAD/_htmresc/st_logo_2020.png",
+        "evidence": "https://github.com/STMicroelectronics/STM32CubeF4",
+        "note": "Official STMicroelectronics mark from STM32 documentation; manufacturer mark.",
+        "bytes": 7520,
+        "sha256": "f01658de11fbcee4975440ed59f48841d4f881d3f99d897398d868c8613e5220",
+        "original_filename": "stm32.png"
+      }
+    },
+    {
+      "label": "FreeRTOS",
+      "badge": "./assets/badges/freertos.svg",
+      "logo": {
+        "url": "https://www.freertos.org/favicon.svg",
+        "evidence": "https://www.freertos.org/",
+        "resolved_url": "https://www.freertos.org/favicon.svg",
+        "bytes": 2142,
+        "sha256": "bcf772adb3cac49738dcc58448fe296263cf425a28b328114a9d949fd2ddec3f",
+        "original_filename": "freertos.svg",
+        "note": "Official FreeRTOS website favicon."
+      }
+    },
+    {
+      "label": "CAN FD",
+      "badge": "./assets/badges/can-fd.svg",
+      "logo": {
+        "url": "https://www.can-cia.org/_assets/9ffef70de06ec7e16a75d217743a958b/Icons/favicon.svg",
+        "evidence": "https://www.can-cia.org/",
+        "resolved_url": "https://www.can-cia.org/_assets/9ffef70de06ec7e16a75d217743a958b/Icons/favicon.svg",
+        "bytes": 1298,
+        "sha256": "95f4fd4992ca9dd8ba25efb2920042575811f86d64b1c7dfb98d84b8b355d8e8",
+        "original_filename": "can-cia.svg",
+        "note": "Official CAN in Automation (CiA) association favicon; not a separate CAN FD protocol logo."
+      }
+    },
+    {
+      "label": "LeRobot",
+      "badge": "./assets/badges/lerobot.svg",
+      "logo": {
+        "url": "https://raw.githubusercontent.com/huggingface/lerobot/HEAD/media/readme/lerobot-logo-thumbnail.png",
+        "evidence": "https://github.com/huggingface/lerobot",
+        "resolved_url": "https://raw.githubusercontent.com/huggingface/lerobot/HEAD/media/readme/lerobot-logo-thumbnail.png",
+        "bytes": 164066,
+        "sha256": "72ee48061c2528eb9f6a1f163622d4805476a52c813bd03f2f32e32d89afd63e",
+        "original_filename": "lerobot.png",
+        "note": "Original logo from the official project website, repository or brand resources."
+      }
+    },
+    {
+      "label": "ROS 2",
+      "badge": "./assets/badges/ros-2.svg",
+      "logo": {
+        "url": "https://raw.githubusercontent.com/ros-infrastructure/artwork/HEAD/ros_logo.svg",
+        "evidence": "https://github.com/ros-infrastructure/artwork",
+        "resolved_url": "https://raw.githubusercontent.com/ros-infrastructure/artwork/HEAD/ros_logo.svg",
+        "bytes": 5154,
+        "sha256": "8b649e9d544a0a02753ecc52d013232e171584fff7a27313f46795fd854cee7e",
+        "original_filename": "ros.svg",
+        "note": "Official ROS project logo from the ROS artwork repository."
+      }
+    },
+    {
+      "label": "Pinocchio",
+      "badge": "./assets/badges/pinocchio.svg",
+      "logo": {
+        "url": "https://gepetto.github.io/doc/pinocchio/doxygen-html/pinocchio.png",
+        "evidence": "https://gepetto.github.io/doc/pinocchio/doxygen-html/index.html",
+        "resolved_url": "https://gepetto.github.io/doc/pinocchio/doxygen-html/pinocchio.png",
+        "bytes": 6679,
+        "sha256": "fbe1c4e191348415d1c80d2410f3ebeb20ee205d269037bac46658749e5eb8ca",
+        "original_filename": "pinocchio.png",
+        "note": "Original logo from the official project website, repository or brand resources."
+      }
+    },
+    {
+      "label": "Ruckig",
+      "badge": "./assets/badges/ruckig.svg",
+      "logo": {
+        "url": "https://docs.ruckig.com/logo.png",
+        "evidence": "https://docs.ruckig.com/",
+        "resolved_url": "https://docs.ruckig.com/logo.png",
+        "bytes": 5572,
+        "sha256": "47836d3cbb3f8fdb80e3337bad619b6c58f7c66510ddb968587922f3adc8d528",
+        "original_filename": "ruckig.png",
+        "note": "Original logo from the official project website, repository or brand resources."
+      }
+    },
+    {
+      "label": "MuJoCo",
+      "badge": "./assets/badges/mujoco.svg",
+      "logo": {
+        "url": "https://raw.githubusercontent.com/google-deepmind/mujoco/HEAD/doc/_static/favicons/favicon-32x32.png",
+        "evidence": "https://github.com/google-deepmind/mujoco",
+        "resolved_url": "https://raw.githubusercontent.com/google-deepmind/mujoco/HEAD/doc/_static/favicons/favicon-32x32.png",
+        "bytes": 1115,
+        "sha256": "e263e211bf61ce17467c368639767e5639e36412f83a6375ddb812c512accb1d",
+        "original_filename": "mujoco.png",
+        "note": "Official MuJoCo documentation favicon."
+      }
+    },
+    {
+      "label": "PyTorch",
+      "badge": "./assets/badges/pytorch.svg",
+      "logo": {
+        "url": "https://raw.githubusercontent.com/pytorch/pytorch/HEAD/docs/source/_static/img/pytorch-logo-flame.svg",
+        "evidence": "https://github.com/pytorch/pytorch",
+        "resolved_url": "https://raw.githubusercontent.com/pytorch/pytorch/HEAD/docs/source/_static/img/pytorch-logo-flame.svg",
+        "bytes": 1493,
+        "sha256": "5d95234008041810d197e9491aee4df95a9346d3ea8540d794174eadc746274e",
+        "original_filename": "pytorch.svg",
+        "note": "Original logo from the official project website, repository or brand resources."
+      }
+    },
+    {
+      "label": "JAX",
+      "badge": "./assets/badges/jax.svg",
+      "logo": {
+        "url": "https://raw.githubusercontent.com/jax-ml/jax/HEAD/images/jax_logo.svg",
+        "evidence": "https://github.com/jax-ml/jax",
+        "resolved_url": "https://raw.githubusercontent.com/jax-ml/jax/HEAD/images/jax_logo.svg",
+        "bytes": 3976,
+        "sha256": "e54db5895ff7d50cef211ce9bee882eb9b081dd2278facacceabb33a51b41620",
+        "original_filename": "jax.svg",
+        "note": "Original logo from the official project website, repository or brand resources."
+      }
+    },
+    {
+      "label": "Flax",
+      "badge": "./assets/badges/flax.svg",
+      "logo": {
+        "url": "https://raw.githubusercontent.com/google/flax/HEAD/images/flax_logo.svg",
+        "evidence": "https://github.com/google/flax",
+        "resolved_url": "https://raw.githubusercontent.com/google/flax/HEAD/images/flax_logo.svg",
+        "bytes": 3862,
+        "sha256": "b5a8cafc01480a0d278f57f45f2e69f0e04a51bc3b4fc5a157076910c7c9fa63",
+        "original_filename": "flax.svg",
+        "note": "Original logo from the official project website, repository or brand resources."
+      }
+    },
+    {
+      "label": "CUDA",
+      "badge": "./assets/badges/cuda.svg",
+      "logo": {
+        "url": "https://d29g4g2dyqv443.cloudfront.net/sites/default/files/pictures/2019/NVIDIACuda_Logo.jpg",
+        "evidence": "https://developer.nvidia.com/cuda/wsl",
+        "bytes": 40702,
+        "sha256": "7a5daade98399093c0029664195c088376501d1c30bf2680f56754dac0e3f2f6",
+        "original_filename": "cuda.jpg",
+        "note": "Official NVIDIA CUDA product logo linked by the CUDA on WSL page."
+      }
+    },
+    {
+      "label": "NumPy",
+      "badge": "./assets/badges/numpy.svg",
+      "logo": {
+        "url": "https://raw.githubusercontent.com/numpy/numpy/HEAD/branding/logo/logomark/numpylogoiconlight.png",
+        "evidence": "https://github.com/numpy/numpy/tree/main/branding",
+        "resolved_url": "https://raw.githubusercontent.com/numpy/numpy/HEAD/branding/logo/logomark/numpylogoiconlight.png",
+        "bytes": 16758,
+        "sha256": "1c2903b3668ed588d3d94f47b51afec5e37e8c3f7415d47b8eeaea6461ae697a",
+        "original_filename": "numpy.png",
+        "note": "Original logo from the official project website, repository or brand resources."
+      }
+    },
+    {
+      "label": "OpenCV",
+      "badge": "./assets/badges/opencv.svg",
+      "logo": {
+        "url": "https://raw.githubusercontent.com/opencv/opencv/HEAD/docs_sphinx/_static/opencv-logo.svg",
+        "evidence": "https://github.com/opencv/opencv",
+        "resolved_url": "https://raw.githubusercontent.com/opencv/opencv/HEAD/docs_sphinx/_static/opencv-logo.svg",
+        "bytes": 1782,
+        "sha256": "e2e47ee3b6be042a79ad6edfdc491bc9020b350a2e965e0d9dfdfb5f5c4756a2",
+        "original_filename": "opencv.svg",
+        "note": "Original logo from the official project website, repository or brand resources."
+      }
+    },
+    {
+      "label": "Open3D",
+      "badge": "./assets/badges/open3d.svg",
+      "logo": {
+        "url": "https://raw.githubusercontent.com/isl-org/Open3D/HEAD/cpp/apps/Open3DViewer/icon.svg",
+        "evidence": "https://github.com/isl-org/Open3D",
+        "resolved_url": "https://raw.githubusercontent.com/isl-org/Open3D/HEAD/cpp/apps/Open3DViewer/icon.svg",
+        "bytes": 3960,
+        "sha256": "2fc23343fe28ed4eb848fc1391bd7ce3cfcd41fadce77da2f77cac527d3001b3",
+        "original_filename": "open3d.svg",
+        "note": "Original logo from the official project website, repository or brand resources."
+      }
+    },
+    {
+      "label": "RealSense",
+      "badge": "./assets/badges/realsense.svg",
+      "logo": {
+        "url": "https://www.realsenseai.com/wp-content/uploads/2025/07/rs-favicon-512x512-1-150x150.png",
+        "evidence": "https://www.realsenseai.com/",
+        "resolved_url": "https://www.realsenseai.com/wp-content/uploads/2025/07/rs-favicon-512x512-1-150x150.png",
+        "bytes": 17105,
+        "sha256": "7a50e56ded7a2aeb2128bd01864b60c95638182cd6549a446ab10d4019f95c71",
+        "original_filename": "realsense.png",
+        "note": "Official RealSense website favicon."
+      }
+    },
+    {
+      "label": "Linux",
+      "badge": "./assets/badges/linux.svg",
+      "logo": {
+        "url": "https://www.kernel.org/theme/images/logos/favicon.png",
+        "evidence": "https://www.kernel.org/",
+        "resolved_url": "https://www.kernel.org/theme/images/logos/favicon.png",
+        "bytes": 3762,
+        "sha256": "9bfb70bf96004ac694b4ed902e634d029df9cc3b0ca50ce06d0608d29afa6d37",
+        "original_filename": "linux.png",
+        "note": "Official kernel.org website icon."
+      }
+    },
+    {
+      "label": "Git",
+      "badge": "./assets/badges/git.svg",
+      "logo": {
+        "url": "https://raw.githubusercontent.com/git/git-scm.com/HEAD/static/images/logos/downloads/Git-Icon-White.svg",
+        "evidence": "https://git-scm.com/community/logos",
+        "resolved_url": "https://raw.githubusercontent.com/git/git-scm.com/HEAD/static/images/logos/downloads/Git-Icon-White.svg",
+        "bytes": 855,
+        "sha256": "4b62d3bdfe913e88de9bd9d25cf466af9d4ac759dfecc8a17d86016b35b97a6e",
+        "original_filename": "git.svg",
+        "note": "Original logo from the official project website, repository or brand resources."
+      }
+    },
+    {
+      "label": "CMake",
+      "badge": "./assets/badges/cmake.svg",
+      "logo": {
+        "url": "https://raw.githubusercontent.com/Kitware/CMake/HEAD/Utilities/Sphinx/static/cmake-logo-16.png",
+        "evidence": "https://github.com/Kitware/CMake",
+        "resolved_url": "https://raw.githubusercontent.com/Kitware/CMake/HEAD/Utilities/Sphinx/static/cmake-logo-16.png",
+        "bytes": 692,
+        "sha256": "c81b38e8f65f3954127f05adc77d45b285bfae589e6e108bb476b75f5d3ec6b3",
+        "original_filename": "cmake.png",
+        "note": "Original logo from the official project website, repository or brand resources."
+      }
+    },
+    {
+      "label": "Docker",
+      "badge": "./assets/badges/docker.svg",
+      "logo": {
+        "url": "https://www.docker.com/static/Docker-Logos-1.zip",
+        "archive_member": "docker-logos/SVG/docker-mark-white.svg",
+        "evidence": "https://www.docker.com/company/newsroom/media-resources/",
+        "bytes": 1222,
+        "sha256": "67abdc0a4b48f9ad283e85839c849911af9bdc7e93797a0c477a488687583a0b",
+        "original_filename": "docker.svg",
+        "note": "Original logo from the official project website, repository or brand resources."
+      }
+    },
+    {
+      "label": "Qt",
+      "badge": "./assets/badges/qt.svg",
+      "logo": {
+        "url": "https://raw.githubusercontent.com/qt/qtbase/HEAD/src/plugins/platforms/wasm/resources/qtlogo.svg",
+        "evidence": "https://github.com/qt/qtbase",
+        "resolved_url": "https://raw.githubusercontent.com/qt/qtbase/HEAD/src/plugins/platforms/wasm/resources/qtlogo.svg",
+        "bytes": 1686,
+        "sha256": "058d71a166ecad2990e7dc2cc67ff211c3fe26ec091e61b70d80d114ca464252",
+        "original_filename": "qt.svg",
+        "note": "Original logo from the official project website, repository or brand resources."
+      }
+    },
+    {
+      "label": "Unity",
+      "badge": "./assets/badges/unity.svg",
+      "logo": {
+        "url": "https://unity.com/icon-dark.svg",
+        "evidence": "https://unity.com/legal/branding-trademarks",
+        "resolved_url": "https://unity.com/icon-dark.svg",
+        "bytes": 580,
+        "sha256": "577c7b3028ce5363f3d43a5995aefbada8b45c4fedd5c57a418d4979bc5bde9d",
+        "original_filename": "unity.svg",
+        "note": "Original logo from the official project website, repository or brand resources."
+      }
+    },
+    {
+      "label": "3D 打印",
+      "badge": "./assets/badges/3d-printing-zh.svg",
+      "logo": null,
+      "note": "No confirmed official logo selected; text-only badge."
+    },
+    {
+      "label": "PCB 设计",
+      "badge": "./assets/badges/pcb-design-zh.svg",
+      "logo": null,
+      "note": "No confirmed official logo selected; text-only badge."
+    }
+  ]
+}
