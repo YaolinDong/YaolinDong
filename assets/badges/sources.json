@@ -169,7 +169,7 @@
     },
     {
       "label": "EasyEDA",
-      "badge": "./assets/badges/easyeda.svg",
+      "badge": "./assets/badges/easyeda-wordmark.svg",
       "logo": {
         "url": "https://docs.easyeda.com/storage/logo/logo_en_dark.svg",
         "evidence": "https://docs.easyeda.com/en/",
@@ -177,7 +177,7 @@
         "bytes": 8444,
         "sha256": "aeb4fa127a728a717a1f99c880bf087e147408afd19a7aafab729f774139526c",
         "original_filename": "easyeda.svg",
-        "note": "Original logo from the official project website, repository or brand resources."
+        "note": "Complete official EasyEDA wordmark from its documentation website, displayed on the existing blue background. The separate EASYEDA badge text is removed, preserving the original white vector artwork and its aspect ratio."
       },
       "embedded_asset": {
         "mime_type": "image/svg+xml",

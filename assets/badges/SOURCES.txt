@@ -29,6 +29,10 @@ https://www.3ds.com/assets/3ds-navigation/3DS_corporate-logo_solidworks.svg
 Displayed on a borderless white badge with the original brand-red artwork,
 replacing the low-resolution website favicon. No cropping or recoloring.
 
+EasyEDA: complete official white vector wordmark from
+https://docs.easyeda.com/storage/logo/logo_en_dark.svg . Displayed on a blue
+badge without a separate EASYEDA label; original artwork and colors preserved.
+
 AutoCAD: official inline SVG from the "Explore the AEC Collection / Products
 included" section of https://www.autodesk.com/products/autocad/overview .
 The original SVG is preserved in assets/logos/autocad.svg. The badge identifies
