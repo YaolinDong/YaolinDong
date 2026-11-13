@@ -134,10 +134,26 @@
       }
     },
     {
-      "label": "CAD",
-      "badge": "./assets/badges/cad.svg",
-      "logo": null,
-      "note": "No confirmed official logo selected; text-only badge."
+      "label": "AutoCAD",
+      "badge": "./assets/badges/autocad.svg",
+      "logo": {
+        "url": "https://www.autodesk.com/products/autocad/overview",
+        "evidence": "https://www.autodesk.com/products/autocad/overview",
+        "source_type": "inline-svg",
+        "section": "Explore the AEC Collection / Products included",
+        "selector": "[role=\"img\"][aria-label=\"AutoCAD\"] svg",
+        "original_asset": "./assets/logos/autocad.svg",
+        "bytes": 1539,
+        "sha256": "08333accdaecbef36f50a814dceb3d293a2f34f7d3d34a4af0c1b5cdecda82e4",
+        "original_filename": "autocad.svg",
+        "note": "Official AutoCAD product icon extracted from the Autodesk product page identified by the user; this identifies AutoCAD specifically, rather than CAD as a general discipline."
+      },
+      "embedded_asset": {
+        "mime_type": "image/svg+xml",
+        "bytes": 1108,
+        "sha256": "654e82608cd87962fd8ac6a41389e56ff60223483e24e9b6735a373de85673a8",
+        "optimization": "Removed website-only CSS classes and accessibility attributes; SVGO 4.1.0 minimizes the complete SVG. Official paths, aspect ratio, and colors are preserved."
+      }
     },
     {
       "label": "3D Printing",

@@ -29,8 +29,13 @@ https://www.3ds.com/assets/3ds-navigation/3DS_corporate-logo_solidworks.svg
 Displayed on a white badge with the original brand-red artwork and a matching
 border, replacing the low-resolution website favicon. No cropping or recoloring.
 
-CAD, 3D Printing, and PCB Design have no confirmed official logo selected and
-remain text-only, including the Chinese variants of the last two labels.
+AutoCAD: official inline SVG from the "Explore the AEC Collection / Products
+included" section of https://www.autodesk.com/products/autocad/overview .
+The original SVG is preserved in assets/logos/autocad.svg. The badge identifies
+AutoCAD specifically, replacing the previous generic CAD text-only badge.
+
+3D Printing and PCB Design have no confirmed official logo selected and
+remain text-only, including their Chinese variants.
 No Simple Icons, Devicon, or self-drawn functional symbols are used by these badges.
 
 Labels, colors, and text metrics retain the existing Shields.io badge design.
