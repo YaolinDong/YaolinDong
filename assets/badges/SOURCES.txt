@@ -3,9 +3,15 @@ Languages and Tools — official logo sources
 All displayed logos were downloaded from official project repositories, brand
 resource pages, or official documentation/websites. sources.json records the
 source URL, evidence page, SHA-256 of the original bytes, and the badge using it.
-The original image bytes are embedded unchanged. Logos are scaled proportionally,
-without recoloring, redrawing, or cropping. Some dark logos sit on a white mount
-inside the existing colored badge so that the original artwork remains legible.
+The logo record retains the original source and its SHA-256. The embedded_asset
+record identifies the optimized artwork actually embedded in each badge.
+Redundant SVG metadata is removed with SVGO 4.1.0. Oversized raster originals
+are resized proportionally with sharp 0.35.5 to at most three times their display
+dimensions and encoded as lossless PNG. Smaller originals are not enlarged.
+There is no recoloring, redrawing, or cropping. Some dark logos sit on a white
+mount inside the existing colored badge so the official artwork remains legible.
+The unoptimized originals remain in Git history at commit
+5736e7f9438229e14421e08162719d3654246f9b, before this optimization.
 
 CAN FD uses the official CAN in Automation (CiA) association mark from can-cia.org.
 It is an association logo, not a separate CAN FD protocol logo. STM32 uses the
