@@ -26,8 +26,8 @@ language homepage, whose FAQ describes the traditional C logo and its provenance
 https://www.c-language.org/faq
 SolidWorks: complete official vector wordmark from
 https://www.3ds.com/assets/3ds-navigation/3DS_corporate-logo_solidworks.svg
-Displayed on a white badge with the original brand-red artwork and a matching
-border, replacing the low-resolution website favicon. No cropping or recoloring.
+Displayed on a borderless white badge with the original brand-red artwork,
+replacing the low-resolution website favicon. No cropping or recoloring.
 
 AutoCAD: official inline SVG from the "Explore the AEC Collection / Products
 included" section of https://www.autodesk.com/products/autocad/overview .

@@ -117,14 +117,14 @@
     },
     {
       "label": "SolidWorks",
-      "badge": "./assets/badges/solidworks.svg",
+      "badge": "./assets/badges/solidworks-borderless.svg",
       "logo": {
         "url": "https://www.3ds.com/assets/3ds-navigation/3DS_corporate-logo_solidworks.svg",
         "evidence": "https://www.3ds.com/",
         "bytes": 8269,
         "sha256": "1a81d6bbb221a313d2f7934cf54eef7cb4e1ef970f6ae98632793c72e3b03c18",
         "original_filename": "3DS_corporate-logo_solidworks.svg",
-        "note": "Official Dassault Systemes SOLIDWORKS corporate wordmark provided by the user. The complete vector artwork is displayed on a white badge with a brand-red border; unused transparent margins extend beyond the badge viewport, with no artwork cropped or recolored."
+        "note": "Official Dassault Systemes SOLIDWORKS corporate wordmark provided by the user. The complete vector artwork is displayed on a borderless white badge; unused transparent margins extend beyond the badge viewport, with no artwork cropped or recolored."
       },
       "embedded_asset": {
         "mime_type": "image/svg+xml",
