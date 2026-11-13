@@ -24,6 +24,10 @@ Ruckig: original logo from docs.ruckig.com/logo.png
 C: original logo from www.c-language.org/logo.svg. WG14 links this official
 language homepage, whose FAQ describes the traditional C logo and its provenance.
 https://www.c-language.org/faq
+SolidWorks: complete official vector wordmark from
+https://www.3ds.com/assets/3ds-navigation/3DS_corporate-logo_solidworks.svg
+Displayed on a white badge with the original brand-red artwork and a matching
+border, replacing the low-resolution website favicon. No cropping or recoloring.
 
 CAD, 3D Printing, and PCB Design have no confirmed official logo selected and
 remain text-only, including the Chinese variants of the last two labels.

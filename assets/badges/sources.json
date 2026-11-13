@@ -119,19 +119,18 @@
       "label": "SolidWorks",
       "badge": "./assets/badges/solidworks.svg",
       "logo": {
-        "url": "https://help.solidworks.com/favicon.png",
-        "evidence": "https://help.solidworks.com/",
-        "resolved_url": "https://help.solidworks.com/favicon.png",
-        "bytes": 1369,
-        "sha256": "57b742609a1a411f0d44820feb6c0c02110c3233b787d38706d32178319ef41b",
-        "original_filename": "solidworks.png",
-        "note": "Official SOLIDWORKS Help website favicon."
+        "url": "https://www.3ds.com/assets/3ds-navigation/3DS_corporate-logo_solidworks.svg",
+        "evidence": "https://www.3ds.com/",
+        "bytes": 8269,
+        "sha256": "1a81d6bbb221a313d2f7934cf54eef7cb4e1ef970f6ae98632793c72e3b03c18",
+        "original_filename": "3DS_corporate-logo_solidworks.svg",
+        "note": "Official Dassault Systemes SOLIDWORKS corporate wordmark provided by the user. The complete vector artwork is displayed on a white badge with a brand-red border; unused transparent margins extend beyond the badge viewport, with no artwork cropped or recolored."
       },
       "embedded_asset": {
-        "mime_type": "image/png",
-        "bytes": 733,
-        "sha256": "001fc0865fe5b4c93a8a85ba855f94b965bdc16742515ea8206262978a3b7862",
-        "optimization": "sharp 0.35.5: proportionally resize oversized raster artwork to 3x its displayed icon dimensions; lossless PNG encoding; no cropping or recoloring."
+        "mime_type": "image/svg+xml",
+        "bytes": 6722,
+        "sha256": "5b33b9e74ecf12bddd36659de320392f87a4dbceb596f4150f01dcb37a35e25c",
+        "optimization": "SVGO 4.1.0: remove redundant SVG metadata and optimize serialization; preserve the complete vector wordmark, aspect ratio, and official red color."
       }
     },
     {
