@@ -613,6 +613,63 @@
       "badge": "./assets/badges/pcb-design-zh.svg",
       "logo": null,
       "note": "No confirmed official logo selected; text-only badge."
+    },
+    {
+      "label": "Codex",
+      "badge": "./assets/badges/codex.svg",
+      "logo": {
+        "url": "https://openai.gallerycdn.vsassets.io/extensions/openai/chatgpt/26.51111.21308/1794532255365/Microsoft.VisualStudio.Services.Icons.Default",
+        "evidence": "https://marketplace.visualstudio.com/items?itemName=openai.chatgpt",
+        "original_asset": "./assets/logos/codex.png",
+        "bytes": 10969,
+        "sha256": "2ce1c57dd3b312417106a487815ab1235bddce17e1fa9b32a2f048bd71ee25d3",
+        "original_filename": "codex-icon-original.png",
+        "note": "Official OpenAI mark distributed as the icon of the OpenAI-published Codex VS Code extension. This identifies the published extension icon, not a separately sourced Codex-only brand mark."
+      },
+      "embedded_asset": {
+        "mime_type": "image/png",
+        "bytes": 3371,
+        "sha256": "c0cc8f77e08a78f2b6debf6dce81e104d467e8e4688073eb6cfaef4c23d1c0bb",
+        "optimization": "Proportional resize to 54x54 (3x displayed size), encoded as lossless PNG with sharp 0.35.5. No recoloring or cropping."
+      }
+    },
+    {
+      "label": "Claude",
+      "badge": "./assets/badges/claude.svg",
+      "logo": {
+        "url": "https://claude.com/icon.svg",
+        "evidence": "https://claude.com/",
+        "original_asset": "./assets/logos/claude.svg",
+        "bytes": 2558,
+        "sha256": "b150888bc7257af83e3b85d3c2be4294f88986026f8168f6c12fc1fde6697350",
+        "original_filename": "claude-icon.svg",
+        "note": "Official Claude symbol served as the SVG site icon by the Claude website. Original terracotta artwork is preserved."
+      },
+      "embedded_asset": {
+        "mime_type": "image/svg+xml",
+        "bytes": 1970,
+        "sha256": "73168d94699f7d369fb2b44491362d4e9a583144056a60f0a9c4e5d8aa7c8769",
+        "optimization": "SVGO 4.1.0 minimizes metadata and serialization while preserving the original paths, proportions, and colors."
+      }
+    },
+    {
+      "label": "DeepSeek",
+      "badge": "./assets/badges/deepseek.svg",
+      "logo": {
+        "url": "https://www.deepseek.com/favicon.ico",
+        "evidence": "https://www.deepseek.com/",
+        "original_asset": "./assets/logos/deepseek.ico",
+        "bytes": 209762,
+        "sha256": "30a4420e6e4dcb17fd7de560c5004346c2bc8cd971d2d5f5ee15326603e51321",
+        "original_filename": "favicon.ico",
+        "note": "Official blue whale site icon linked by the DeepSeek homepage. Original artwork, blue color, and transparency are preserved."
+      },
+      "embedded_asset": {
+        "mime_type": "image/png",
+        "bytes": 3667,
+        "sha256": "31c19913f6883494d526d9487e650f1206bb498f61154122587c982ed38c2ae4",
+        "optimization": "Decode the original ICO and proportionally resize its complete 225x225 artwork to 54x54 for 3x display density; encode as lossless PNG with sharp 0.35.5. No recoloring or cropping."
+      }
     }
   ]
 }

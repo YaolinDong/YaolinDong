@@ -38,6 +38,15 @@ included" section of https://www.autodesk.com/products/autocad/overview .
 The original SVG is preserved in assets/logos/autocad.svg. The badge identifies
 AutoCAD specifically, replacing the previous generic CAD text-only badge.
 
+Codex: the official OpenAI mark distributed as the icon of the OpenAI-published
+Codex extension at https://marketplace.visualstudio.com/items?itemName=openai.chatgpt .
+Claude: the original terracotta SVG symbol from https://claude.com/icon.svg ,
+referenced by the official Claude homepage. Original files are kept in assets/logos.
+
+DeepSeek: original blue whale site icon from https://www.deepseek.com/favicon.ico ,
+linked by the official homepage. The original ICO is kept in assets/logos/deepseek.ico.
+The full icon is resized proportionally for the badge without recoloring or cropping.
+
 3D Printing and PCB Design have no confirmed official logo selected and
 remain text-only, including their Chinese variants.
 No Simple Icons, Devicon, or self-drawn functional symbols are used by these badges.
